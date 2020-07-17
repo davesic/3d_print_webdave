@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\3dds\bin\Debug\3dds.exe.config
+C:\Users\David\source\repos\3dds\bin\Debug\3dds.exe
+C:\Users\David\source\repos\3dds\bin\Debug\3dds.pdb
+C:\Users\David\source\repos\3dds\obj\Debug\3dds.csprojAssemblyReference.cache
+C:\Users\David\source\repos\3dds\obj\Debug\_3dds.Form1.resources
+C:\Users\David\source\repos\3dds\obj\Debug\_3dds.Properties.Resources.resources
+C:\Users\David\source\repos\3dds\obj\Debug\3dds.csproj.GenerateResource.cache
+C:\Users\David\source\repos\3dds\obj\Debug\3dds.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\3dds\obj\Debug\3dds.exe
+C:\Users\David\source\repos\3dds\obj\Debug\3dds.pdb
+C:\Users\David\source\repos\3dds\obj\Debug\_3dds.print_info.resources
